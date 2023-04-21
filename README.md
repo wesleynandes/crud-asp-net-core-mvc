@@ -14,7 +14,7 @@ Criado para registrar o meu conhecimento em construção de CRUD e como forma de
 ## Como rodar o Projeto?
 
 ```
-$ git clone https://github.com/wesleyfernands/crud-asp-net-core-mvc.git
+$ git clone https://github.com/wesleynandes/crud-asp-net-core-mvc.git
 ```
 * Atualize a string de conexao do banco de dados 
 * Instale os seguintes pacotes de dependencias pelo NuGet Package
